@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P03_AppNumInt</string>
+    <string name="txt_digite">Digite número inteiro</string>
+    <string name="txt_numeros">Números digitados</string>
+    <string name="txt_impar">Quantidade de ímpares</string>
+    <string name="txt_par">Quantidade de pares</string>
+    <string name="txt_soma">Soma</string>
+</resources>

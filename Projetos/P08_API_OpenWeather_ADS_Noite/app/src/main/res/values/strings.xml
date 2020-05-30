@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P08_API_OpenWeather_ADS_Noite</string>
+    <string name="txt_data">Data/hora</string>
+    <string name="txt_temp">Temperatura</string>
+    <string name="txt_sensacao">Sensação</string>
+    <string name="txt_desc">Descrição</string>
+</resources>

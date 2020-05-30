@@ -1,0 +1,2 @@
+rootProject.name='P06_AvaliaSerie_ADS_noite'
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P01_Conta_ADS_Noite</string>
+    <string name="txt_conta">Valor da conta</string>
+    <string name="txt_calcular">Calcular com 10%</string>
+</resources>

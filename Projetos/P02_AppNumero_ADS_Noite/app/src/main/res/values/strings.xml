@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P02_AppNumero_ADS_Noite</string>
+    <string name="txt_digite">Digite um número inteiro</string>
+    <string name="txt_botao">OK</string>
+    <string name="txt_numeros">Números digitados</string>
+    <string name="txt_impares">Quantidade de ímpares</string>
+    <string name="txt_pares">Quantidade de pares</string>
+    <string name="txt_soma">Soma</string>
+</resources>

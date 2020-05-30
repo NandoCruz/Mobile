@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P06_AvaliaSerie_ADS_noite</string>
+    <string name="txt_dados">Dados da série de TV</string>
+    <string name="txt_titulo">Título</string>
+    <string name="txt_genero">Gênero</string>
+    <string name="txt_ativa">Está ativa?</string>
+    <string name="txt_avaliacao">Sua avaliação</string>
+    <string name="txt_avaliar">Avaliar</string>
+    <string name="txt_compartilhar">Compartilhar</string>
+    <string-array name="vetor_generos">
+        <item>Selecione...</item>
+        <item>Aventura</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Suspense</item>
+    </string-array>
+</resources>

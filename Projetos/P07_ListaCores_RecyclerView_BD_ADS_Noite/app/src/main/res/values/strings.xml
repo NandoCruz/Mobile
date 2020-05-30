@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P07_ListaCores_RecyclerView_BD_ADS_Noite</string>
+    <string name="txt_adicionar">Adicionar</string>
+    <string name="txt_cor">Cor</string>
+</resources>

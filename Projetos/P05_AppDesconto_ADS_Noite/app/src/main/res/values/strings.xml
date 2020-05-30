@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P05_AppDesconto_ADS_Noite</string>
+    <string name="txt_nome">Nome do produto</string>
+    <string name="txt_preco">Preço</string>
+    <string name="txt_desconto">Desconto (%)</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_limpar">Limpar</string>
+    <string name="txt_compartilhar">Compartilhar</string>
+</resources>

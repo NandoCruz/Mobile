@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P04_GasApp_ADS_Noite</string>
+    <string name="txt_modelo">Modelo do automóvel</string>
+    <string name="txt_distancia">Distância (km)</string>
+    <string name="txt_potencia">Potência do motor</string>
+    <string name="txt_valor">Valor do litro da gasolina</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_compartilhar">Compartilhar</string>
+</resources>
